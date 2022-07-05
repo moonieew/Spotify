@@ -10,4 +10,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![alt](http://https://drive.google.com/file/d/1ROyjRqoyH3ACIM12OHCnE5POGvS8fT30/view?usp=sharing)
+![alt](http://https://github.com/moonieew/Spotify/blob/main/interface.png)
